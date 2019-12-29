@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">551685024140-qvljvuptkg13be2n54pu282suncmr83d.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://cap-medicine.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">551685024140</string>
+    <string name="google_api_key" translatable="false">AIzaSyDYhcvcD49P7evPog3TU4lvlQRlGyVBz1c</string>
+    <string name="google_app_id" translatable="false">1:551685024140:android:c3b608b1b22b2de207cea9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDYhcvcD49P7evPog3TU4lvlQRlGyVBz1c</string>
+    <string name="google_storage_bucket" translatable="false">cap-medicine.appspot.com</string>
+    <string name="project_id" translatable="false">cap-medicine</string>
+</resources>

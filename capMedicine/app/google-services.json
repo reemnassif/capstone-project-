@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551685024140",
+    "firebase_url": "https://cap-medicine.firebaseio.com",
+    "project_id": "cap-medicine",
+    "storage_bucket": "cap-medicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551685024140:android:c3b608b1b22b2de207cea9",
+        "android_client_info": {
+          "package_name": "com.khlafawi.capmedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551685024140-h3k9jnnt39k5e52dk874f1h75usbsf03.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khlafawi.capmedicine",
+            "certificate_hash": "869fcec52b42cc367e1081fc56d003756abb878a"
+          }
+        },
+        {
+          "client_id": "551685024140-qvljvuptkg13be2n54pu282suncmr83d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYhcvcD49P7evPog3TU4lvlQRlGyVBz1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551685024140-qvljvuptkg13be2n54pu282suncmr83d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

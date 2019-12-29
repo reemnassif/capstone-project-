@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grand Care - Patient</string>
+    <string name="channel_id">com.khlafawi.capmedicine.channel_id</string>
+    <string name="enter_code_here">Enter Code Here</string>
+    <string name="submit">Submit</string>
+    <string name="registering">Registering</string>
+    <string name="check_your_internet">Please, check your internet connection.</string>
+    <string name="no_ids_found">Please, check your code again.</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="medicine_dose">Medicine Dose</string>
+    <string name="authenticated_successfully">Authenticated successfully</string>
+    <string name="i_took_the_medicine">I took the medicine</string>
+    <string name="logout">Logout</string>
+    <string name="patient_name">Patient Name</string>
+</resources>
